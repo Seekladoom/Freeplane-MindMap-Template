@@ -1,4 +1,4 @@
-# FreePlane-MindMap-Template
-English：FreePlane-MindMap-Template
+# Freeplane-MindMap-Template
+English：Freeplane-MindMap-Template
 
-Chinese：FreePlane思维导图模板
+Chinese：Freeplane思维导图模板
