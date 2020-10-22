@@ -1,7 +1,7 @@
 # Freeplane 思维导图模板
-English：Freeplane-MindMap-Template
+英语（English）：Freeplane-MindMap-Template
 
-Chinese：Freeplane 思维导图模板
+简体中文（Simplified Chinese）：Freeplane 思维导图模板
 
 # 【思维导图软件】Freeplane 安装和简单模板制作教程
 
