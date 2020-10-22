@@ -7,7 +7,7 @@ Chinese：Freeplane 思维导图模板
 
 https://www.bilibili.com/video/BV1AZ4y1L7ky
 
-
+# Freeplane 导出文件格式 备忘录
 PNG的文本不可复制
 
 PDF并不是所有字体（比如思源黑体、更纱黑体，不转曲的话，在导出时字形就会崩）都能导出字形正常的思维导图，因此需要转曲确保在不管用什么字体的情况下都能导出字形正常的思维导图。
