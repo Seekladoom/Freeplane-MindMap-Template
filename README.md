@@ -9,7 +9,9 @@
 
 https://www.bilibili.com/video/BV1AZ4y1L7ky
 
-# 如何反哺 Freeplane 开源项目
+# 如何反哺 Freeplane 这个开源项目
+
+Freeplane的源码链接：
 
 https://github.com/freeplane/freeplane
 
