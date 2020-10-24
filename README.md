@@ -9,7 +9,7 @@
 
 https://www.bilibili.com/video/BV1AZ4y1L7ky
 
-# 如何反哺 Freeplane 的开发项目
+# 如何反哺 Freeplane 开源项目
 Freeplane的底层语言是Java，此外还有groovy和xslt，如果有朋友想参与到Freeplane的开发当中来，给Freeplane制作更多的图文、视频教程、模板甚至是追加新功能、重做界面的话。
 可以先看Freeplane的源码，并针对xslt和groovy的相关手册制作思维导图，迅速纵览全局并定位，找到问题的入手点，提高开发效率。
 
