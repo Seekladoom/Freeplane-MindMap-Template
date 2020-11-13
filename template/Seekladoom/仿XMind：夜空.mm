@@ -5,34 +5,34 @@
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
-<font NAME="更纱黑体 SC Semibold" SIZE="24"/>
+<font NAME="Sarasa Gothic PDF SC Semibold" SIZE="24"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold"/>
+<font NAME="Sarasa Gothic PDF SC Semibold"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="default" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold" SIZE="10" BOLD="false" ITALIC="false"/>
+<font NAME="Sarasa Gothic PDF SC Semibold" SIZE="10" BOLD="false" ITALIC="false"/>
 <edge STYLE="horizontal" COLOR="#05a8f4" WIDTH="1" DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold"/>
+<font NAME="Sarasa Gothic PDF SC Semibold"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold" SIZE="9"/>
+<font NAME="Sarasa Gothic PDF SC Semibold" SIZE="9"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt" TEXT_ALIGN="LEFT">
-<font NAME="更纱黑体 SC Semibold"/>
+<font NAME="Sarasa Gothic PDF SC Semibold"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.floating" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold"/>
+<font NAME="Sarasa Gothic PDF SC Semibold"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 </stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
-<font NAME="更纱黑体 SC Semibold"/>
+<font NAME="Sarasa Gothic PDF SC Semibold"/>
 <edge STYLE="horizontal" COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.topic" COLOR="#ffffff" BACKGROUND_COLOR="#ffffff" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="5.0 pt" SHAPE_VERTICAL_MARGIN="3.0 pt">
 <font NAME="Sarasa Gothic PDF SC Semibold" SIZE="10" BOLD="true"/>
