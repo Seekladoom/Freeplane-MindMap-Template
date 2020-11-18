@@ -57,5 +57,7 @@ POSITION（只有改left和right有效，上下必须在相应地方写入相关
 
 贝赛尔曲线、水平直线（这俩的二级以及之后的节点间距形状跟Freeplane的子间隔参数有关）
 
+节点形状选择【分叉、组合】时，第1层节点依然会保持对称，但第2层节点及之后的就做不到了；选择【气泡、椭圆形、矩形、宽六角形、狭窄六角形】，每级节点都能保持对称；选择【同父节点】时，每级节点都不能保持对称。
+
 # Freeplane开发相关 1-3.txt
 https://github.com/Seekladoom/Seekladoom-MindMap/blob/main/Freeolane%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%201-3.txt
