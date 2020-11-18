@@ -56,3 +56,6 @@ HTML文档
 POSITION（只有改left和right有效，上下必须在相应地方写入相关功能才能实现）
 
 贝赛尔曲线、水平直线（这俩的二级以及之后的节点间距形状跟Freeplane的子间隔参数有关）
+
+# Freeolane开发相关 1-3.txt
+https://github.com/Seekladoom/Seekladoom-MindMap/blob/main/Freeolane%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%201-3.txt
