@@ -25,6 +25,10 @@ PNG的文本不可复制（废话）
 
 PDF并不是所有字体（比如思源黑体、更纱黑体这类OpenType曲线的字体（不一定是otf格式，可以是OpenType曲线的ttf字体），不转曲的话，在导出时字形就会崩）都能导出字形正常的思维导图，因此需要转曲确保在不管用什么字体的情况下都能导出字形正常的思维导图。
 
+更纱黑体 SC Semibold的替代解决方案见此处：
+解决过程：https://github.com/be5invis/Sarasa-Gothic/issues/199
+替代字体：https://github.com/Seekladoom/Freeplane-MindMap-Template/blob/main/%E5%AD%97%E4%BD%93%EF%BC%88Fonts%EF%BC%89/Sarasa%20Gothic%20PDF%20SC%20Semibold.ttf
+
 在Windows系统下，如果要规避字体版权又想直接用系统自带字体确保他人也能正常显示的话，可以直接用黑体，即simhei，也就是中易黑体。
 
 
