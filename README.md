@@ -44,3 +44,9 @@ HTML文档
 导出为XHTML（JavaScript版）…
 
 导出为XHTML（可点击的映射图像版）…
+
+
+# Freeplane实际使用时的一些细节记录
+POSITION（只有改left和right有效，上下必须在相应地方写入相关功能才能实现）
+
+贝赛尔曲线、水平直线（这俩跟Freeplane的子间隔参数相关）
