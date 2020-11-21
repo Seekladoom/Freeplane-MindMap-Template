@@ -61,3 +61,6 @@ POSITION（只有改left和right有效，上下必须在相应地方写入相关
 
 # Freeplane开发相关 1-3.txt
 https://github.com/Seekladoom/Seekladoom-MindMap/blob/main/Freeolane%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%201-3.txt
+
+# 导出图片提示内存溢出的解决方法
+当Freeplane制作的思维导图的篇幅太大，在导出jpg、png提示内存溢出时，可以试着导出pdf再用其他工具（比如pdf2png、Adobe Acrobat、福昕PDF等）转jpg、png。
