@@ -12,6 +12,8 @@ https://www.bilibili.com/video/BV1AZ4y1L7ky
 # 【免费开源可商用】思维导图软件 Freeplane 常见问题解决方法（不定期更新）
 https://www.bilibili.com/video/BV1Pa4y1s7P4
 
+注：关于背景颜色问题，在Freeplane的菜单界面，依次点击工具→首选项→外观→取消勾选打印使用白色背景之后，再在Freeplane的思维导图界面上的空白处点击鼠标右键，弹出右键菜单后再点击背景颜色并选择自己喜欢的颜色即可。
+
 # 如何反哺 Freeplane 这个开源项目
 
 Freeplane的源码链接：
