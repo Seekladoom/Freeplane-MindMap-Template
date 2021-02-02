@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT=" 仿XMind：稳重" FOLDED="false" ID="ID_100776476" CREATED="1601720331676" MODIFIED="1601783410745" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES"><hook NAME="MapStyle" background="#ecf4f9" zoom="2.685">
+<node TEXT=" 仿XMind：稳重 " FOLDED="false" ID="ID_100776476" CREATED="1601720331676" MODIFIED="1601783410745" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES"><hook NAME="MapStyle" background="#ecf4f9" zoom="2.685">
     <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" edgeColorConfiguration="#808080ff,#00ddddff,#dddd00ff,#dd0000ff,#00dd00ff,#dd0000ff,#7cddddff,#dddd7cff,#dd7cddff,#7cdd7cff,#dd7c7cff,#7c7cddff"/>
 
 <map_styles>
